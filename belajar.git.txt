@@ -3,3 +3,6 @@ Kelas : X IPA 4
 No : 21
 
 Namaku Muhammad Rafii' Ni'am Nadhif Sanjia, mantap jiwab bro, bismillah harus bisa ngoding
+
+Tes Coba di sini aku tambahin sesuatu, ini kita lagi ada di branch rencana-belajar, jadi tidak akan mengganggu proses
+yang terjadi di master branch, okay
